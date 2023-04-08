@@ -1,0 +1,47 @@
+.container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 900;
+}
+.image {
+  height: 30vh;
+}
+.count-description {
+  color: #ffffff;
+  font-size: 25px;
+}
+.description {
+  color: #cbd5e1;
+  font-size: 18px;
+}
+.button-container {
+  display: flex;
+  font-size: 13px;
+  margin: 10px;
+  color: #ffffff;
+}
+.accelerate {
+  background-color: #0b69ff;
+  border-color: transparent;
+  border-radius: 6px;
+  padding: 5px;
+  margin: 20px;
+}
+.break {
+  border-color: #94a3b8;
+  background-color: transparent;
+  border-radius: 6px;
+  padding: 5px;
+  margin: 20px;
+  color: #ffffff;
+}
